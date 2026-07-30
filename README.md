@@ -7,4 +7,4 @@
 | 数据集名称 | Google Drive 地址 | 原始数据地址 |
 |------------|-------------------|--------------|
 | Chikusei | [Google Drive](https://drive.google.com/drive/folders/1eY62WBjxjTJXSgykmn8wu8C4YaeCzMow?hl=zh-cn) | (Raw Data)(https://naotoyokoya.com/Download.html) |
-| *(待补充)* | — | — |
+| WDCMall | — | — |
