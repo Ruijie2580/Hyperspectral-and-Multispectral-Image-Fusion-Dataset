@@ -6,5 +6,5 @@
 
 | 数据集名称 | Google Drive 地址 | 原始数据地址 |
 |------------|-------------------|--------------|
-| Chikusei | [Google Drive](https://drive.google.com/drive/folders/1eY62WBjxjTJXSgykmn8wu8C4YaeCzMow?hl=zh-cn) | (Raw Data)(https://naotoyokoya.com/Download.html) |
-| WDCMall | — | — |
+| Chikusei | [Google Drive](https://drive.google.com/drive/folders/1eY62WBjxjTJXSgykmn8wu8C4YaeCzMow?hl=zh-cn) | [Raw Data](https://naotoyokoya.com/Download.html) |
+| WDCMall | [Google Drive](https://drive.google.com/drive/folders/1PRKE-V2GwkWCOH5b2Oow12DJImylRJKO?hl=zh-cn) | [Raw Data](https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html) |
